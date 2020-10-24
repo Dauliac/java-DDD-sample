@@ -1,0 +1,10 @@
+fr/ubordeaux/ao/infra/RepositorySaveToRam.java
+ fr.ubordeaux.ao.infra.RepositorySaveToRam
+fr/ubordeaux/ao/domain/Aggregate.java
+ fr.ubordeaux.ao.domain.Aggregate
+fr/ubordeaux/ao/domain/Repository.java
+ fr.ubordeaux.ao.domain.Repository
+fr/ubordeaux/ao/domain/Value.java
+ fr.ubordeaux.ao.domain.Value
+fr/ubordeaux/ao/domain/Entity.java
+ fr.ubordeaux.ao.domain.Entity
